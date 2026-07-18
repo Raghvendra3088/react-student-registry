@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-student-registry/static/css/main.e6c13ad2.css",
+    "main.js": "/react-student-registry/static/js/main.0eef3747.js",
+    "index.html": "/react-student-registry/index.html",
+    "main.e6c13ad2.css.map": "/react-student-registry/static/css/main.e6c13ad2.css.map",
+    "main.0eef3747.js.map": "/react-student-registry/static/js/main.0eef3747.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0eef3747.js"
+  ]
+}
