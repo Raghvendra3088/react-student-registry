@@ -12,6 +12,14 @@ React.js, JSX, useState, useEffect, CSS-in-JS
 ## Live React Demo
 https://react-student-registry-8f4zpbdkt-raghvendra3088-8318s-projects.vercel.app
 
+## GitHub LIVE -
+https://raghvendra3088.github.io/react-student-registry/
+
 ## Run Locally
+\`\`\`
+git clone https://github.com/Raghvendra3088/react-student-registry.git
+cd react-student-registry
 npm install
 npm start
+\`\`\`
+EOF
