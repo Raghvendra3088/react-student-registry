@@ -39,7 +39,7 @@ export default function LiveClock() {
       }}>
         <div style={{ animation: "fadeUp 0.8s ease both" }}>
           <p style={{ fontSize: 11, letterSpacing: "0.4em", color: "#4d9ab5", textTransform: "uppercase", textAlign: "center", marginBottom: 24 }}>
-            // system time — live feed
+            system time — live feed
           </p>
 
           <div style={{
