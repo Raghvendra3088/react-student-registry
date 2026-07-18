@@ -9,6 +9,9 @@ A student management interface with a Live Clock utility built with React.js.
 ## Tech Stack
 React.js, JSX, useState, useEffect, CSS-in-JS
 
+## Live React Demo
+https://react-student-registry-8f4zpbdkt-raghvendra3088-8318s-projects.vercel.app
+
 ## Run Locally
 npm install
 npm start
